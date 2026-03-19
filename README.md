@@ -42,4 +42,4 @@ The AI learns patterns in sequences of moves and predicts the next move based on
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/HusnainQasidRock_paper_scissor.git
